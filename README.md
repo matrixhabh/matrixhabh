@@ -1,10 +1,11 @@
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/3bab9728898167.55d79cd0b855f.gif">
+<img align="right" alt="Coding" width="400" src="https://rrowbyte.wordpress.com/wp-content/uploads/2015/07/2b273fd61a4b924ee50757821c587680dac7e3a7_hq.gif">
 
 <i><b>👋 Hi, I’m Rishabh </b></i>
 - 👀 I’m interested in Tech <br>
 - 🌱 I’m currently learning Python and Django <br>
 - 📫 To reach me drop a mail at rishabh918263@gmail.com <br>
-- ⚡ Fun fact: Mitochondria is the powerhouse of a cell. <br>
+- ⚡ Fun fact: Mitochondria is the powerhouse of a cell <br>
+- 💀 Also 'yes' I love animes
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
