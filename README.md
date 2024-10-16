@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning Python and Django <br>
 - 📫 To reach me drop a mail at rishabh918263@gmail.com <br>
 - ⚡ Fun fact: Mitochondria is the powerhouse of a cell <br>
-- 💀 Also 'yes' I love animes
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
