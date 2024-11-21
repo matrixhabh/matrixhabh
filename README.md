@@ -2,7 +2,7 @@
 
 <i><b>👋 Hi, I’m Rishabh </b></i>
 - 👀 I’m interested in Tech <br>
-- 🌱 I’m currently learning Python and Django <br>
+- 🌱 I’m currently learning JS and Frameworks <br>
 - 📫 To reach me drop a mail at rishabh918263@gmail.com <br>
 - ⚡ Fun fact: Mitochondria is the powerhouse of a cell <br>
 
