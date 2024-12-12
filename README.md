@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning JS and Frameworks <br>
 - 📫 To reach me drop a mail at rishabh918263@gmail.com <br>
 - ⚡ Fun fact: Mitochondria is the powerhouse of a cell <br>
-- 🚀 Starting 100 Days of Code!~(09/12/2024)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
